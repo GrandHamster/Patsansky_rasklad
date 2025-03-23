@@ -8,8 +8,7 @@ description: Single neuron perceptron that classifies elements learning quite qu
 img: assets/img/posts/20210125/Perceptron.jpg 
 tags: [Палки, Чарки, Финки, Гроши, Понятия, Рамсы, Братва, Положняк]
 author: Armando Maynez
-github:  amaynez/Perceptron/
-mathjax: yes
+
 ---
 <p style="text-align: center;"><h1>Текст</h1></p>
 
