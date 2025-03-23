@@ -11,7 +11,7 @@ author: Armando Maynez
 
 ---
 <h2 style="text-align: center;">ЗАГОЛОВОК</h2>
-<p style="text-align: center;"><big>мем·мем·мем·мем</big></p>
+<p style="text-align: center;"><big>мем·мем·мем·мем·мем</big></p>
 
 То они бы нипочём!
 
