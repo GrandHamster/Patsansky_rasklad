@@ -10,7 +10,7 @@ tags: [Палки, Чарки, Финки, Гроши, Понятия, Рамс�
 author: Armando Maynez
 
 ---
-<p style="text-align: center;"><big><big><big><b>ЗАГОЛОВОК</b>b></big></big></big></p>
+<p style="text-align: center;"><big><big><big><b>ЗАГОЛОВОК</b></big></big></big></p>
 <p style="text-align: center;"><big>мем·мем·мем·мем·мем</big></p>
 
 <img align="right" src='./assets/img/posts/stock/yellow.png'>
