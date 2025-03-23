@@ -23,7 +23,7 @@ author: Armando Maynez
        src='./assets/img/posts/stock/yellow.png'
        align="right"
        alt="картинка" />
-    <figcaption>Это описание изображения</figcaption>
+    <figcaption>Это не описание изображения</figcaption>
 </figure>
 
 
