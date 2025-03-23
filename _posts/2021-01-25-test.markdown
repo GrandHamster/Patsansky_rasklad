@@ -18,6 +18,8 @@ author: Armando Maynez
 <p style="text-align: center;" class="dline"><big><big><big><b>ЗАГОЛОВОК</b></big></big></big><br>
 <small><i>мем·мем·мем·мем·мем</i></small></p>
 
+<img src="./assets/img/posts/stock/yellow.png" alt="Description" style="float: right; margin: 10px; width: 200px;" />
+
 <img align="right" src='./assets/img/posts/stock/yellow.png'>
 
 
