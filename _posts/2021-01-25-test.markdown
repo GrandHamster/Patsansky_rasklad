@@ -11,9 +11,7 @@ author: Armando Maynez
 github:  amaynez/Perceptron/
 mathjax: yes
 ---
-Еслип мышки
-
-## Проверяем, как оно
+<p style="text-align: center;">## Проверяем, как оно</p>
 
 Были пчолами!
 
