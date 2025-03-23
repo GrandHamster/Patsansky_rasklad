@@ -12,7 +12,7 @@ author: Armando Maynez
 ---
 <style>
    p.dline {
-    line-height: 0.5;
+    line-height: 0.75;
    }
      </style>
 <p style="text-align: center;" class="dline"><big><big><big><b>ЗАГОЛОВОК</b></big></big></big><br>
