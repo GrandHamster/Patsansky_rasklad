@@ -10,7 +10,7 @@ tags: [Палки, Чарки, Финки, Гроши, Понятия, Рамс�
 author: Armando Maynez
 
 ---
-<h3 style="text-align: center;">ЗАГОЛОВОК</h3>
+<h2 style="text-align: center;">ЗАГОЛОВОК</h2>
 <p style="text-align: center;"><big>Были пчолами!</big></p>
 
 То они бы нипочём!
