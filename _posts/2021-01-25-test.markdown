@@ -29,6 +29,8 @@ author: Armando Maynez
 
 <!-- Текст выше не длиннее этого + выравнивание -->
 
+<br>
+<br>
 
 <p style="text-align: center;"><big><b>КОНКРЕТНЫЙ РАСКЛАД</b></big></p>
 
