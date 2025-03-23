@@ -11,7 +11,7 @@ author: Armando Maynez
 github:  amaynez/Perceptron/
 mathjax: yes
 ---
-<p style="text-align: center;">## Проверяем, как оно</p>
+<p style="text-align: center;"><h1>Текст</h1></p>
 
 Были пчолами!
 
