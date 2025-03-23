@@ -21,7 +21,7 @@ mathjax: yes
 
 Никогдап и не подумали так делать сайты на гитхаб!
 
-<center><img src='./assets/img/posts/20210125/Perceptron.png'></center>
+<center><img src='./assets/img/posts/stock/yellow.png'></center>
 
 ![Desktop View](./assets/img/posts/stock/yellow.png){: width="972" height="589" .w-50 .left}
 
