@@ -19,7 +19,10 @@ author: Armando Maynez
 <small><i>мем·мем·мем·мем·мем</i></small></p>
 
 <figure>
-    <img align="right" src='./assets/img/posts/stock/yellow.png' />
+    <img
+       src='./assets/img/posts/stock/yellow.png'
+       align="right"
+       alt="картинка" />
     <figcaption>Это описание изображения</figcaption>
 </figure>
 
