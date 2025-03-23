@@ -16,7 +16,7 @@ author: Armando Maynez
    }
      </style>
 <p style="text-align: center;" class="dline"><big><big><big><b>ЗАГОЛОВОК</b></big></big></big><br>
-<big>мем·мем·мем·мем·мем</big></p>
+<small><i>мем·мем·мем·мем·мем</i></small></p>
 
 <img align="right" src='./assets/img/posts/stock/yellow.png'>
 
