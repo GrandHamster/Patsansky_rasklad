@@ -2,7 +2,7 @@
 layout: post
 read_time: true
 show_date: true
-title:   
+title: Название карты  
 date:   2024-01-25 13:32:20 -0600
 description: Single neuron perceptron that classifies elements learning quite quickly.
 img: assets/img/posts/20210125/Perceptron.jpg 
@@ -15,7 +15,7 @@ author: Armando Maynez
     line-height: 0.9;
    }
      </style>
-<p style="text-align: center;" class="dline"><big><big><big><b>ЗАГОЛОВОК</b></big></big></big><br>
+<p style="text-align: center;" class="dline"><big><big><big><b>Мистическая погремуха</b></big></big></big><br>
 <small><i>мем·мем·мем·мем·мем</i></small></p>
 
 
