@@ -25,7 +25,7 @@ author: Armando Maynez
   <p style="margin: 5px 0; font-size: 0.9em; line-height: 0.85;"><small><i>Praesent maximus aliquam sapien. Sed vel neque <br> in dolor pulvinar auctor. </i></small></p>
 </div>
 
-<!-- Подпись форматируется лайндрейками -->
+<!-- Подпись форматируется лайнбрейками -->
 
 
    Praesent maximus aliquam sapien. Sed vel neque in dolor pulvinar auctor. Maecenas pharetra, sem sit amet interdum posuere, tellus lacus eleifend magna, ac lobortis felis ipsum id sapien. Proin ornare rutrum metus, ac convallis diam volutpat sit amet. Phasellus volutpat, elit sit amet tincidunt mollis, felis mi scelerisque mauris, ut facilisis leo magna accumsan sapien. In rutrum vehicula nisl eget tempor. Nullam maximus ullamcorper11
