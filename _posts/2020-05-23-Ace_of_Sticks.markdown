@@ -1,10 +1,10 @@
 ---
 layout: post
 read_time: true
-show_date: true
+show_date: false
 show_title: false
 title: Название карты  
-date: 1987-95-23 13:37:00 -0600
+date: 2020-05-23 13:37:00 -0600
 description: Ace of Sticks meanings
 img: posts/20210125/Perceptron.jpg 
 tags: [Палки, Рамсы]
