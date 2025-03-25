@@ -38,35 +38,50 @@ author: Armando Maynez
 <br>
 <br>
 
-<p style="text-align: center;"><big><b>РОВНАЯ КАРТА</b></big></p>
+<p style="text-align: center;"><big><b>Ровная карта</b></big></p>
 
-   Praesent maximus aliquam sapien. Sed vel neque in dolor pulvinar auctor. Maecenas pharetra, sem sit amet interdum posuere, tellus lacus eleifend magna, ac lobortis felis ipsum id sapien. Proin ornare rutrum metus, ac convallis diam volutpat sit amet. Phasellus volutpat, elit sit amet tincidunt mollis, felis mi scelerisque mauris, ut facilisis leo magna accumsan sapien. In rutrum vehicula nisl eget tempor. Nullam maximus ullamcorper  
+  Пламя разгорается: <br>
+         Неподнятая бита - Само по себе Пламя никогда не вспыхнет. Сейчас это только возможность, а её реализация зависит от вопрошающего. <br>
+         Побуждение к действию: Бита уже почти в твоих руках. Бей.<br>
+         Созидание или Разрушение - Беспощадное Пламя не -обещает успеха-, главное - раздуть этот огонь! <br>
 
-<p style="text-align: center;"><big><b>МУТНАЯ КАРТА</b></big></p>
+<i>Значение карты: внезапно открывшаяся возможность, поворотный момент, драка, от которой нельзя отбазариться. </i>
 
-   Praesent maximus aliquam sapien. Sed vel neque in dolor pulvinar auctor. Maecenas pharetra, sem sit amet interdum posuere, tellus lacus eleifend magna, ac lobortis felis ipsum id sapien. Proin ornare rutrum metus, ac convallis diam volutpat sit amet. Phasellus volutpat, elit sit amet tincidunt mollis, felis mi scelerisque mauris, ut facilisis leo magna accumsan sapien. In rutrum vehicula nisl eget tempor. Nullam maximus ullamcorper  
+<p style="text-align: center;"><big><b>Мутная карта</b></big></p>
 
-<p style="text-align: center;"><big><b>ПРОШЛОЕ</b></big></p>
+     Дым и копоть <br>
+Сомнения - Ты погрелся у огня, но дал ему угаснуть. Это кострище скрывает Тлен.. <br>
+Упущенные возможности - Момент потерян. Кажется, Двор освещён не так ярко. <br>
+Проклятье Отцветшего Пламени - Искра, ставшая дымом - это преступление против себя самого. Твой Долг растёт. <br>
 
-   Praesent maximus aliquam sapien. Sed vel neque in dolor pulvinar auctor. Maecenas pharetra, sem sit amet interdum posuere, tellus lacus eleifend magna, ac lobortis felis ipsum id sapien. Proin ornare rutrum metus, ac convallis diam volutpat sit amet. Phasellus volutpat, elit sit amet tincidunt mollis, felis mi scelerisque mauris, ut facilisis leo magna accumsan sapien. In rutrum vehicula nisl eget tempor. Nullam maximus ullamcorper  
+<i>Значение карты: сомнения, встречный ветер, несбывшийся путь. </i>
+ 
 
-<p style="text-align: center;"><big><b>НАСТОЯЩЕЕ</b></big></p>
+<p style="text-align: center;"><big><b>Прошлое</b></big></p>
 
-   Praesent maximus aliquam sapien. Sed vel neque in dolor pulvinar auctor. Maecenas pharetra, sem sit amet interdum posuere, tellus lacus eleifend magna, ac lobortis felis ipsum id sapien. Proin ornare rutrum metus, ac convallis diam volutpat sit amet. Phasellus volutpat, elit sit amet tincidunt mollis, felis mi scelerisque mauris, ut facilisis leo magna accumsan sapien. In rutrum vehicula nisl eget tempor. Nullam maximus ullamcorper  
+   Ты должен вспомнить вспышку - смешная детская кража, тайком подслушанный заговор, первая выкуренная сигарета. Пламя, которое в тебе, разгорелось из этих искр, и сейчас надо понять, что сгорает в этом огне. 
 
-<p style="text-align: center;"><big><b>БУДУЩЕЕ</b></big></p>
 
-   Praesent maximus aliquam sapien. Sed vel neque in dolor pulvinar auctor. Maecenas pharetra, sem sit amet interdum posuere, tellus lacus eleifend magna, ac lobortis felis ipsum id sapien. Proin ornare rutrum metus, ac convallis diam volutpat sit amet. Phasellus volutpat, elit sit amet tincidunt mollis, felis mi scelerisque mauris, ut facilisis leo magna accumsan sapien. In rutrum vehicula nisl eget tempor. Nullam maximus ullamcorper 
+<p style="text-align: center;"><big><b>Настоящее</b></big></p>
+
+   Ты стоишь на пороге. Твои руки сжимают биту. Готов ли ты ударить первым?
+
+<p style="text-align: center;"><big><b>Будущее</b></big></p>
+
+   Самое время хорошенько подумать о своих планах. В жизни Стремящегося не должно быть пустоты, а пустота в твоей жизни уже слишком заметна. Нужно готовиться к неминуемым изменениям, и не упустить искры, которая появится в скором времени - и тогда пламя разгорится, бита ударит, как надо, а ты станешь на шаг дальше от теней, клубящихся за пределами Двора. Если не упустишь искры.
    
 <p style="text-align: center;"><big><b>ДА или НЕТ?</b></big></p>
 
-   Praesent maximus aliquam sapien. Sed vel neque in dolor pulvinar auctor. Maecenas pharetra, sem sit amet interdum posuere, tellus lacus eleifend magna, ac lobortis felis ipsum id sapien. Proin ornare rutrum metus, ac convallis diam volutpat sit amet. Phasellus volutpat, elit sit amet tincidunt mollis, felis mi scelerisque mauris, ut facilisis leo magna accumsan sapien. In rutrum vehicula nisl eget tempor. Nullam maximus ullamcorper 
+   Нет - если ты задаёшь этот вопрос, значит ты ещё не готов подойти к Беспощадному Пламени. 
 
    
 
-<p style="text-align: center;"><big><b>САКРАЛЬНОЕ ЗНАЧЕНИЕ КАРТЫ</b></big></p>
+<p style="text-align: center;"><big><b>Значение карты: Первый Удар</b></big></p>
 
-   Praesent maximus aliquam sapien. Sed vel neque in dolor pulvinar auctor. Maecenas pharetra, sem sit amet interdum posuere, tellus lacus eleifend magna, ac lobortis felis ipsum id sapien. Proin ornare rutrum metus, ac convallis diam volutpat sit amet. Phasellus volutpat, elit sit amet tincidunt mollis, felis mi scelerisque mauris, ut facilisis leo magna accumsan sapien. In rutrum vehicula nisl eget tempor. Nullam maximus ullamcorper Praesent maximus aliquam sapien. Sed vel neque in dolor pulvinar auctor. Maecenas pharetra, sem sit amet interdum posuere, tellus lacus eleifend magna, ac lobortis felis ipsum id sapien. Proin ornare rutrum metus, ac convallis diam volutpat sit amet. Phasellus volutpat, elit sit amet tincidunt mollis, felis mi scelerisque mauris, ut facilisis leo magna accumsan sapien. In rutrum vehicula nisl eget tempor. Nullam maximus ullamcorperPraesent maximus aliquam sapien. Sed vel neque in dolor pulvinar auctor. Maecenas pharetra, sem sit amet interdum posuere, tellus lacus eleifend magna, ac lobortis felis ipsum id sapien. Proin ornare rutrum metus, ac convallis diam volutpat sit amet. Phasellus volutpat, elit sit amet tincidunt mollis, felis mi scelerisque mauris, ut facilisis leo magna accumsan sapien. In rutrum vehicula nisl eget tempor. Nullam maximus ullamcorperPraesent maximus aliquam sapien. Sed vel neque in dolor pulvinar auctor. Maecenas pharetra, sem sit amet interdum posuere, tellus lacus eleifend magna, ac lobortis felis ipsum id sapien. Proin ornare rutrum metus, ac convallis diam volutpat sit amet. Phasellus volutpat, elit sit amet tincidunt mollis, felis mi scelerisque mauris, ut facilisis leo magna accumsan sapien. In rutrum vehicula nisl eget tempor. Nullam maximus ullamcorper
+   Туз Бит - карта, не обещающая лёгкое начало пути. Это первая искра, вспыхнувшая в пустоте, межевой столб, вбитый в промерзшую землю. Кто-то считает, что такой огонь - это Агни, древнее ведическое божество, отражающее изначальные силы поглощения, преобразования и передач, который излучает свет и тепло во все стороны, являясь воплощением чистой Воли к существованию - однако несмотря на то, что именно этот огонь согревает и освещает Двор, делая ветшающие панельки вокруг гораздо уютнее, теплее, и останавливая Тлен, то, что он заберёт - потеряно навсегда, потому что огонь несет в себе как очищение и преобразование, так и абсолютное разрушение. 
+   Это Беспощадное Пламя, то самое, которое горело на руинах великих городов и вело вперёд великих пророков и чародеев, отражаясь в почерневших ликах воровских икон под звуки древних, странных молитв давно забытым богам. Это - теплота и уют Дома, которого нет, воплощения тоски о спокойной, свободной жизни, о которой мечтает каждый бродяга.Опалённая и преобразившаяся в таком огне пламенем бита становится уже не деревом, но костью погибшего советского левиафана, проводником несгибаемой силы воли Забытых Апостолов, оружием, закалённым в горниле Вечной Стенки. 
+    Стремящемуся, которому выпала эта карта, дают в руки такую биту. Готов ли он шагнуть во двор? Зажжёт ли он Беспощадное Пламя? Жизнь покажет. 
+
 
  
 
