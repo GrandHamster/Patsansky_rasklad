@@ -3,11 +3,11 @@ layout: post
 read_time: true
 show_date: false
 show_title: false
-title: Название карты  
+title: Туз Бит  
 date: 2020-05-23 13:37:00 -0600
 description: Ace of Sticks meanings
 img: posts/20210125/Perceptron.jpg 
-tags: [Палки, Рамсы]
+tags: [Биты, Рамсы]
 author: Armando Maynez
 
 ---
@@ -16,7 +16,7 @@ author: Armando Maynez
     line-height: 0.9;
    }
      </style>
-<p style="text-align: center;" class="dline"><big><big><big><b>Мистическая погремуха</b></big></big></big><br>
+<p style="text-align: center;" class="dline"><big><big><big><b>Туз Бит</b></big></big></big><br>
 <small><i>мем·мем·мем·мем·мем</i></small></p>
 
 
