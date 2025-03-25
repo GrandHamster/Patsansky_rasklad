@@ -17,18 +17,18 @@ author: Armando Maynez
    }
      </style>
 <p style="text-align: center;" class="dline"><big><big><big><b>Туз Бит</b></big></big></big><br>
-<small><i>мем·мем·мем·мем·мем</i></small></p>
+<small><i>Рождение·Начало·Творчество·Изобретательность·Новые Начала</i></small></p>
 
 
 <div style="float: right; margin: 10px;">
   <img src="./assets/img/posts/stock/yellow.png" alt="Description" width="375" />
-  <p style="margin: 5px 0; font-size: 0.9em; line-height: 0.85;"><small><i>Praesent maximus aliquam sapien. Sed vel neque <br> in dolor pulvinar auctor. </i></small></p>
+  <p style="margin: 5px 0; font-size: 0.9em; line-height: 0.85;"><small><i>Сначала ты кидаешь камень в витрину, а потом  <br> вся улица под тобой. Смотри, не обожгись.</i></small></p>
 </div>
 
 <!-- Подпись форматируется лайнбрейками -->
 
 
-   Praesent maximus aliquam sapien. Sed vel neque in dolor pulvinar auctor. Maecenas pharetra, sem sit amet interdum posuere, tellus lacus eleifend magna, ac lobortis felis ipsum id sapien. Proin ornare rutrum metus, ac convallis diam volutpat sit amet. Phasellus volutpat, elit sit amet tincidunt mollis, felis mi scelerisque mauris, ut facilisis leo magna accumsan sapien. In rutrum vehicula nisl eget tempor. Nullam maximus ullamcorper11
+   Туз Бит - это искра, что никогда не потухнет, вечный отблеск Беспощадного Пламени, последний уголёк очага Дома, которого нет. Его огонь уже не греет, но ещё не обжигает, тлея на пепелище Страны Советов и ожидая момента, когда его раздует неумолимая воля Стремящегося. Вытянуть эту карту - значит сделать первый шаг во Двор, и, возможно, нанести первый удар в Вечной Стенке. Помните: Туз Бит освещает не путь, но путника. 
 
 
    
