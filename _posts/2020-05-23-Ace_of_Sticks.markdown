@@ -22,7 +22,7 @@ author: Armando Maynez
 
 <div style="float: right; margin: 10px;">
   <img src="./assets/img/posts/stock/yellow.png" alt="Description" width="375" />
-  <p style="margin: 5px 0; font-size: 0.9em; line-height: 0.85;"><small><i>Сначала ты кидаешь камень в витрину, а потом  <br> вся улица под тобой. Смотри, не обожгись.</i></small></p>
+  <p style="margin: 5px 0; font-size: 0.9em; line-height: 0.92;"><small><i>Сначала ты кидаешь камень в витрину, а потом  <br> вся улица под тобой. Смотри, не обожгись.</i></small></p>
 </div>
 
 <!-- Подпись форматируется лайнбрейками -->
