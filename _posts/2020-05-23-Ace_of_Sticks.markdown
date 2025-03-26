@@ -17,7 +17,7 @@ author: Armando Maynez
    }
      </style>
 <p style="text-align: center;" class="dline"><big><big><big><b>Туз Бит</b></big></big></big><br>
-<small><i>Рождение·Начало·Творчество·Изобретательность·Новые Начала</i></small></p>
+<small><i>Рождение·Возможность·Новые Начинания</i></small></p>
 
 
 <div style="float: right; margin: 10px;">
