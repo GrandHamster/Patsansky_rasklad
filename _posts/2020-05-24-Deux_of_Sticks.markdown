@@ -16,7 +16,7 @@ author: Armando Maynez
     line-height: 0.9;
    }
      </style>
-<p style="text-align: center;" class="dline"><big><big><big><b>Туз Бит</b></big></big></big><br>
+<p style="text-align: center;" class="dline"><big><big><big><b>Двойка Бит</b></big></big></big><br>
 <small><i>Достижения·Тревога·Целеполагание</i></small></p>
 
 
