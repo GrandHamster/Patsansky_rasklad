@@ -17,7 +17,7 @@ author: Armando Maynez
    }
      </style>
 <p style="text-align: center;" class="dline"><big><big><big><b>Тройка Бит</b></big></big></big><br>
-<small><i>Достижения·Тревога·Целеполагание</i></small></p>
+<small><i>Достижения·Стабильность·Вершина</i></small></p>
 
 
 <div style="float: right; margin: 10px;">
